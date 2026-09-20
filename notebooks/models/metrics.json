@@ -1,0 +1,11 @@
+{
+  "best_model": "logistic_regression",
+  "metrics": {
+    "model": "logistic_regression",
+    "accuracy": 0.9832,
+    "precision": 1.0,
+    "recall": 0.9829268292682927,
+    "f1": 0.991389913899139,
+    "roc_auc": 0.9984959349593496
+  }
+}
